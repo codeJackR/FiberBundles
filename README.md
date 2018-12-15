@@ -13,3 +13,5 @@ tck_to_trk.py : converts streamline files from .tck to .trk file format
 auto_reco.py : applies RecoBundle using dipy command line interface
 
 random_forest.py : applies random_forest on training data
+
+probabilistic.ipynb : applies probabilistic approaches on training data (MCMC/Gibbs Sampling)
