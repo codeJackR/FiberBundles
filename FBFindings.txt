@@ -1,0 +1,3 @@
+Doubts:
+Why does some of the results for MDF distances gives NaN values? (Do I need to pass the 2 streamlines with the same number of points?)
+
